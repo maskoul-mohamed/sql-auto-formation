@@ -1,0 +1,1 @@
+SELECT * from clients INNER JOIN commands ON commands.id = clients.command_id ; 
